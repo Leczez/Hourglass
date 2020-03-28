@@ -1,0 +1,10 @@
+
+
+
+Battery:
+
+
+	~66.5 mm Width
+	~36.9 mm Height
+	~19.0 mm Girth
+
